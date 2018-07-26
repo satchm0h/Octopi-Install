@@ -1,14 +1,17 @@
 # Go go Octopi!
 
-##...Installing Octopi for the mere mortal
+## ...Installing Octopi for the mere mortal
+
 
 *Warning: This is certainly a work in progress. Please feel free to open issues (or issue a PR) if there is something wrong with the content*
 
 The process a little bit fiddly but **you can do it!** After all, pretty much everyone getting into 3D printing has be prepared for getting into the fiddly bits every now and then.
 
+###Hardware
+
 From a hardware perspective, all you need is a pi 3B+, a micro SD-card (Which will come with an adapter so that you can use it with your existing SD card reader), a USB printer cable (USB-A Male to USB-B Male), a micro-USB cable (like an android phone charger) and a USB brick to plug it into the wall (At least 1AMP output).
 
-Hardware List
+List
 
 - Pi
 The 3B+ has built-in wifi and is pretty snappy (for a small little computer)<br>
