@@ -112,9 +112,12 @@ OK, we are now at the command line for the Raspberry Pi.
 - Now lets tell the Pi to use the whole memory card instead of just the minimal image size. Type the command `sudo raspi-config`. This should bring up a text menu.
   - Select `Advanced Options`
   - Select `Expand Filesystem`. You should get a message saying something about the file system expanding after your next boot.
+  - Hit `Esc` until the menu goes away and you are back at the prompt.
 - Reboot the Pi by typing the command `sudo reboot`
 
 Now your Pi is rebooting and you should lose your connection. Give it a couple of minutes to reboot and connect to the network.
+
+...now you can put Linux on your resume ;)
 
 <h1 align="center">You did it!</h1>
 
