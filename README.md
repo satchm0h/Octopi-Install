@@ -7,7 +7,7 @@
 
 The process a little bit fiddly but **you can do it!** After all, pretty much everyone getting into 3D printing has be prepared for getting into the fiddly bits every now and then.
 
-###Hardware
+### Hardware
 
 From a hardware perspective, all you need is a pi 3B+, a micro SD-card (Which will come with an adapter so that you can use it with your existing SD card reader), a USB printer cable (USB-A Male to USB-B Male), a micro-USB cable (like an android phone charger) and a USB brick to plug it into the wall (At least 1AMP output).
 
@@ -116,11 +116,7 @@ OK, we are now at the command line for the Raspberry Pi.
 
 Now your Pi is rebooting and you should lose your connection. Give it a couple of minutes to reboot and connect to the network.
 
-<center>
-
-#You did it!
-
-</center>
+<h1 align="center">You did it!</h1>
 
 Now browse to <http://octopi.local>. Octopi ships with a self signed certificate, so you will have to accept that. 
 
