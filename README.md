@@ -11,9 +11,7 @@ The process a little bit fiddly but **you can do it!** After all, pretty much ev
 
 From a hardware perspective, all you need is a pi 3B+, a micro SD-card (Which will come with an adapter so that you can use it with your existing SD card reader), a USB printer cable (USB-A Male to USB-B Male), a micro-USB cable (like an android phone charger) and a USB brick to plug it into the wall (At least 1AMP output).
 
-List
-
-- Pi
+- Raspberry Pi<br>
 The 3B+ has built-in wifi and is pretty snappy (for a small little computer)<br>
 [Amazon Link](https://smile.amazon.com/Raspberry-Pi-RASPBERRYPI3-MODB-1GB-Model-Motherboard/dp/B01CD5VC92/ref=sr_1_7?s=electronics&ie=UTF8&qid=1532567506&sr=1-7&keywords=raspberry+pi+3+b%2B#customerReviews)
 
@@ -26,6 +24,8 @@ Lots of options here..cheaper and smaller and slower, bigger and faster and more
 
 - Micro USB Cable and Charger<br>
 Just use a phone charger you have lying around. If you need to buy another brick make sure it is at least 1AMP.
+
+...now go [print a case](https://www.thingiverse.com/thing:922740) while you are waiting for the Pi to show up.
 
 ### Software
 
