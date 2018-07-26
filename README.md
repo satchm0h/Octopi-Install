@@ -2,8 +2,7 @@
 
 ## ...Installing Octopi for the mere mortal
 
-
-*Warning: This is certainly a work in progress. Please feel free to open issues (or issue a PR) if there is something wrong with the content*
+I'm writing this in response to a request for help from a Thingiverse user who would like to stop schlepping their memory card back and forth between their computer and printer. All this information is available elsewhere, but it is spread across a number of different sites with some outdated information mixed in. Hopefully having this all consolidated will help.
 
 The process a little bit fiddly but **you can do it!** After all, pretty much everyone getting into 3D printing has be prepared for getting into the fiddly bits every now and then.
 
@@ -136,4 +135,4 @@ Here are some key resources:
 - [Raspberry Pi Install](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
   - This is the primary source for imaging the SD card.
 
-
+*This is certainly a work in progress. Please feel free to open issues (or issue a PR) if there is something wrong with the content*
