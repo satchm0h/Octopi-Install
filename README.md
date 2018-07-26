@@ -47,9 +47,10 @@ Put the micro SD card in your reader. Then...
 1. Open Etcher
 2. Drag the octopi zip file you downloaded on to etcher and click the "go" (or maybe "etch") button.
 	- You may have to select the SD card, but its always just detected it for me.  
-3. After the image is done being written to the disk, you should be able to browse the memory card (Using Explorer on Windows or Finder on Mac) and it will have a boot folder. Open up that folder.
-4. Edit the file in the folder called "octopi-wpa-supplicant.txt" using the Atom text editor we downloaded and installed above.
-	- Warning: using Notepad or TextEdit will break this step
+3. After the image is done being written to the disk, you should be able to browse the memory card (Using Explorer on Windows or Finder on Mac) and it will have a `boot` folder. Open up that folder.
+4. Edit the file in the folder called `octopi-wpa-supplicant.txt` using the Atom text editor we downloaded and installed above.
+	- You can open Atom and then File->Open, or right click the file icon and use "Open with...". 
+	- *Warning: using Notepad or TextEdit will break this step*
 5. Find the WPA2 configuration section in the file and change the SSID and Passphrase to match your Wifi-Network and password.
 6. Save the file, close the editor, eject the card, and put it in the Pi. 
 
