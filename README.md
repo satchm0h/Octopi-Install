@@ -40,13 +40,16 @@ If you use the builtin editor on Windows (Notepad) or the Mac (TextEdit) you wil
 
 - If you are on Windows you will need an ssh client ([Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)). If you are on a Mac this is already available via the Terminal application.<br>
 
+#### Imaging the MicroSD card
 
-To image the card, put it in your reader. Then...
+Put the micro SD card in your reader. Then...
 
 1. Open Etcher
-2. Drag the octopi zip file you downloaded on to etcher and click the "go" (or maybe "etch") button. 
+2. Drag the octopi zip file you downloaded on to etcher and click the "go" (or maybe "etch") button.
+	- You may have to select the SD card, but its always just detected it for me.  
 3. After the image is done being written to the disk, you should be able to browse the memory card (Using Explorer on Windows or Finder on Mac) and it will have a boot folder. Open up that folder.
-4. Edit the file in the folder called "octopi-wpa-supplicant.txt" using the Atom text editor (Warning: using Notepad or TextEdit will break this step) we downloaded and installed above.
+4. Edit the file in the folder called "octopi-wpa-supplicant.txt" using the Atom text editor we downloaded and installed above.
+	- Warning: using Notepad or TextEdit will break this step
 5. Find the WPA2 configuration section in the file and change the SSID and Passphrase to match your Wifi-Network and password.
 6. Save the file, close the editor, eject the card, and put it in the Pi. 
 
@@ -63,7 +66,7 @@ Ok, home stretch....
 
 Now we get to find out if we did everything correctly. 
 
-##### We need to connect to the Pi's CLI 
+#### We need to connect to the Pi's CLI 
 
 *Note: You will rarely, if ever, have to do this again*
 
